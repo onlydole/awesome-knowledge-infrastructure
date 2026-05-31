@@ -6,7 +6,7 @@
 
 The pieces have always existed in scattered categories — wikis, docs tools, search, PKM apps. What's new is treating them as *one layer* worth designing on purpose. This list is an opinionated map of that layer.
 
-Curated by [Taylor Dolezal](https://github.com/onlydole) — Head of Open Source @ Dosu, CNCF Ambassador. Contributions are welcome.
+Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of work across open source and cloud native infrastructure. Contributions are welcome.
 
 ## Contents
 
