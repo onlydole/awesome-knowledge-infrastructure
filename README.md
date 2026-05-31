@@ -31,11 +31,11 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 ## Personal Knowledge Management
 
 - [Obsidian](https://obsidian.md) - A local-first, Markdown-based knowledge base built on a graph of linked notes.
-- [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source outliner for networked note-taking and tasks.
+- [Logseq](https://github.com/logseq/logseq) - A privacy-first, open source outliner for networked note-taking and tasks.
 - [Foam](https://github.com/foambubble/foam) - A personal knowledge management system built on VS Code and plain Markdown.
 - [Dendron](https://github.com/dendronhq/dendron) - A hierarchical, schema-aware note tool that scales to large knowledge bases.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - A self-hosted, block-based personal knowledge management system.
-- [Joplin](https://github.com/laurent22/joplin) - An open-source note and to-do app with end-to-end encryption and sync.
+- [Joplin](https://github.com/laurent22/joplin) - An open source note and to-do app with end-to-end encryption and sync.
 
 ## Documentation as Code
 
@@ -57,20 +57,20 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 ## AI Knowledge Assistants
 
 - [Dosu](https://dosu.dev) - An AI teammate that answers questions, triages issues, and maintains knowledge from your codebase and docs.
-- [Onyx](https://github.com/onyx-dot-app/onyx) - An open-source AI assistant and enterprise search over your team's documents and apps (formerly Danswer).
+- [Onyx](https://github.com/onyx-dot-app/onyx) - An open source AI assistant and enterprise search over your team's documents and apps (formerly Danswer).
 - [Khoj](https://github.com/khoj-ai/khoj) - A self-hostable AI second brain that searches and chats across your notes and documents.
 - [Glean](https://www.glean.com) - An enterprise search and AI assistant connected across workplace tools.
-- [Quivr](https://github.com/QuivrHQ/quivr) - An open-source framework for building a personal, RAG-powered knowledge assistant.
+- [Quivr](https://github.com/QuivrHQ/quivr) - An open source framework for building a personal, RAG-powered knowledge assistant.
 
 ## Search and Retrieval
 
 - [LangChain](https://github.com/langchain-ai/langchain) - A framework for building applications with LLMs, including retrieval-augmented generation.
 - [LlamaIndex](https://github.com/run-llama/llama_index) - A data framework for connecting custom data sources to LLMs.
 - [Haystack](https://github.com/deepset-ai/haystack) - An end-to-end framework for building search and RAG pipelines.
-- [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for PostgreSQL.
-- [Qdrant](https://github.com/qdrant/qdrant) - A high-performance, open-source vector database for similarity search.
-- [Weaviate](https://github.com/weaviate/weaviate) - An open-source vector database with built-in vectorization and hybrid search.
-- [Meilisearch](https://github.com/meilisearch/meilisearch) - A fast, typo-tolerant, open-source search engine.
+- [pgvector](https://github.com/pgvector/pgvector) - Open source vector similarity search for PostgreSQL.
+- [Qdrant](https://github.com/qdrant/qdrant) - A high-performance, open source vector database for similarity search.
+- [Weaviate](https://github.com/weaviate/weaviate) - An open source vector database with built-in vectorization and hybrid search.
+- [Meilisearch](https://github.com/meilisearch/meilisearch) - A fast, typo-tolerant, open source search engine.
 
 ## Knowledge Graphs
 
@@ -78,7 +78,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Memgraph](https://github.com/memgraph/memgraph) - An in-memory graph database compatible with the Cypher query language.
 - [Dgraph](https://github.com/dgraph-io/dgraph) - A distributed, GraphQL-native graph database.
 - [Apache Jena](https://github.com/apache/jena) - A Java framework for building semantic web and linked-data applications.
-- [TerminusDB](https://github.com/terminusdb/terminusdb) - An open-source graph database for collaborative, versioned knowledge.
+- [TerminusDB](https://github.com/terminusdb/terminusdb) - An open source graph database for collaborative, versioned knowledge.
 
 ## Architecture Decision Records
 
