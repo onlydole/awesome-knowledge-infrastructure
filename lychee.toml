@@ -1,0 +1,2 @@
+# Some hosts (e.g. LinkedIn) block automated requests; accept those statuses.
+accept = ["200..=299", "403", "429"]
