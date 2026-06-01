@@ -121,6 +121,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 ## Search and Retrieval
 
+- [LanceDB](https://github.com/lancedb/lancedb) - An embedded, open source vector database for multimodal AI built on the Lance format.
 - [Meilisearch](https://github.com/meilisearch/meilisearch) - A fast, typo-tolerant, open source search engine.
 - [Elasticsearch](https://github.com/elastic/elasticsearch) - A distributed search and analytics engine for full-text, structured, and vector search.
 - [Apache Solr](https://github.com/apache/solr) - A mature, Lucene-based open source search platform for large-scale deployments.
@@ -130,7 +131,6 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Weaviate](https://github.com/weaviate/weaviate) - An open source vector database with built-in vectorization and hybrid search.
 - [Chroma](https://github.com/chroma-core/chroma) - An open source embedding database designed for building AI applications quickly.
 - [Milvus](https://github.com/milvus-io/milvus) - A cloud-native, open source vector database built for massive-scale similarity search.
-- [LanceDB](https://github.com/lancedb/lancedb) - An embedded, open source vector database for multimodal AI built on the Lance format.
 
 ## AI Memory and Context
 
@@ -205,7 +205,6 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 - [Write the Docs](https://www.writethedocs.org) - A global community and conference series for documentation practitioners.
 - [r/PKMS](https://www.reddit.com/r/PKMS/) - A community for discussing personal knowledge management systems.
-- [onlydole on Substack](https://onlydole.substack.com) - Essays on open source, cloud native, and knowledge infrastructure by this list's curator.
 
 ## Contributing
 
