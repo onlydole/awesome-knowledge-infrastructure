@@ -141,7 +141,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 ## Orchestration and Durable Execution
 
-- [DBOS](https://www.dbos.dev) - An open source durable workflow library, backed by Postgres, for building crash-resilient backends, pipelines, and AI agents.
+- [DBOS](https://www.dbos.dev) - An open source durable workflow library, backed by PostgreSQL, for building crash-resilient backends, pipelines, and AI agents.
 - [Temporal](https://github.com/temporalio/temporal) - A durable execution platform for orchestrating reliable, long-running workflows and services.
 - [Restate](https://github.com/restatedev/restate) - An open source durable execution engine for building resilient applications, workflows, and agents.
 
