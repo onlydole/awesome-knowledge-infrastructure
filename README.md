@@ -133,7 +133,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 - [Mem0](https://github.com/mem0ai/mem0) - An open source memory layer that gives AI agents persistent, personalized recall.
 - [Letta](https://github.com/letta-ai/letta) - An open source framework (formerly MemGPT) for building stateful agents with long-term memory.
-- [Zep](https://github.com/getzep/zep) - An open source memory server that stores and retrieves conversation history for AI agents.
+- [Graphiti](https://github.com/getzep/graphiti) - An open source framework for building temporally-aware knowledge graphs for agent memory.
 - [cognee](https://github.com/topoteretes/cognee) - An open source framework for building memory and knowledge graphs for AI agents from your data.
 
 ## Knowledge Graphs
