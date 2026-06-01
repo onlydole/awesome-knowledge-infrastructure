@@ -20,6 +20,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
 - [Search and Retrieval](#search-and-retrieval)
 - [AI Memory and Context](#ai-memory-and-context)
+- [Orchestration and Durable Execution](#orchestration-and-durable-execution)
 - [Knowledge Graphs](#knowledge-graphs)
 - [Data Catalogs and Metadata](#data-catalogs-and-metadata)
 - [Architecture Decision Records](#architecture-decision-records)
@@ -115,6 +116,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [txtai](https://github.com/neuml/txtai) - An all-in-one embeddings database for semantic search, RAG, and LLM orchestration.
 - [RAGFlow](https://github.com/infiniflow/ragflow) - An open source RAG engine built on deep document understanding for grounded question answering.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries for ingesting and preprocessing documents into LLM-ready data.
+- [Docling](https://github.com/docling-project/docling) - An open source toolkit that parses PDFs, Office files, and more into structured, LLM-ready formats.
 - [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - A Python library for state-of-the-art text and image embeddings used in semantic search.
 
 ## Search and Retrieval
@@ -128,6 +130,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Weaviate](https://github.com/weaviate/weaviate) - An open source vector database with built-in vectorization and hybrid search.
 - [Chroma](https://github.com/chroma-core/chroma) - An open source embedding database designed for building AI applications quickly.
 - [Milvus](https://github.com/milvus-io/milvus) - A cloud-native, open source vector database built for massive-scale similarity search.
+- [LanceDB](https://github.com/lancedb/lancedb) - An embedded, open source vector database for multimodal AI built on the Lance format.
 
 ## AI Memory and Context
 
@@ -135,6 +138,12 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Letta](https://github.com/letta-ai/letta) - An open source framework (formerly MemGPT) for building stateful agents with long-term memory.
 - [Graphiti](https://github.com/getzep/graphiti) - An open source framework for building temporally-aware knowledge graphs for agent memory.
 - [cognee](https://github.com/topoteretes/cognee) - An open source framework for building memory and knowledge graphs for AI agents from your data.
+
+## Orchestration and Durable Execution
+
+- [DBOS](https://www.dbos.dev) - An open source durable workflow library, backed by Postgres, for building crash-resilient backends, pipelines, and AI agents.
+- [Temporal](https://github.com/temporalio/temporal) - A durable execution platform for orchestrating reliable, long-running workflows and services.
+- [Restate](https://github.com/restatedev/restate) - An open source durable execution engine for building resilient applications, workflows, and agents.
 
 ## Knowledge Graphs
 
