@@ -138,6 +138,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Letta](https://github.com/letta-ai/letta) - An open source framework (formerly MemGPT) for building stateful agents with long-term memory.
 - [Graphiti](https://github.com/getzep/graphiti) - An open source framework for building temporally-aware knowledge graphs for agent memory.
 - [cognee](https://github.com/topoteretes/cognee) - An open source framework for building memory and knowledge graphs for AI agents from your data.
+- [Screenpipe](https://screenpipe.com/) - Source-available desktop memory under the Screenpipe Commercial License, providing locally captured screen text and audio history through MCP and a local API for recall and work summaries; configured cloud features can transmit context off-device.
 
 ## Orchestration and Durable Execution
 
