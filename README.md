@@ -54,6 +54,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Org-roam](https://github.com/org-roam/org-roam) - A plain-text knowledge management system for Emacs Org-mode built on the Zettelkasten method.
 - [Notion](https://www.notion.com) - An all-in-one workspace combining notes, docs, wikis, and databases.
 - [Roam Research](https://roamresearch.com) - A note-taking tool for networked thought with bidirectional links and daily notes.
+- [Dayora ChatGPT Journal Reader](https://www.dayora.ai/tools/chatgpt-journal-reader) - A free browser utility for saving selected user-role messages from ChatGPT exports as Markdown for a personal knowledge archive.
 
 ## Wikis and Team Knowledge Bases
 
