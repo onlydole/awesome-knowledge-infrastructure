@@ -65,6 +65,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5) - A self-contained, non-linear personal wiki you can carry in a single HTML file.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - An open source, local-first workspace that merges documents, whiteboards, and databases.
 - [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's widely used team workspace for documentation and knowledge sharing.
+- [Tale](https://github.com/tale-project/tale) - Self-hosted team workspace with shared documents, versioned knowledge entries, and MCP access for agents.
 
 ## Documentation as Code
 
