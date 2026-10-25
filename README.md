@@ -54,6 +54,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Org-roam](https://github.com/org-roam/org-roam) - A plain-text knowledge management system for Emacs Org-mode built on the Zettelkasten method.
 - [Notion](https://www.notion.com) - An all-in-one workspace combining notes, docs, wikis, and databases.
 - [Roam Research](https://roamresearch.com) - A note-taking tool for networked thought with bidirectional links and daily notes.
+- [FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) - A deployable Markdown blueprint for organizing sources, tasks, knowledge, and reusable procedures in a local personal knowledge base.
 
 ## Wikis and Team Knowledge Bases
 
