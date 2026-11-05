@@ -101,6 +101,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 ## AI Knowledge Assistants
 
+- [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve.
 - [Dosu](https://dosu.dev) - An AI teammate that answers questions, triages issues, and maintains knowledge from your codebase and docs.
 - [Onyx](https://github.com/onyx-dot-app/onyx) - An open source AI assistant and enterprise search over your team's documents and apps (formerly Danswer).
 - [Khoj](https://github.com/khoj-ai/khoj) - A self-hostable AI second brain that searches and chats across your notes and documents.
