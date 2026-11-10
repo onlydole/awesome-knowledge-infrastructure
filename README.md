@@ -138,6 +138,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Letta](https://github.com/letta-ai/letta) - An open source framework (formerly MemGPT) for building stateful agents with long-term memory.
 - [Graphiti](https://github.com/getzep/graphiti) - An open source framework for building temporally-aware knowledge graphs for agent memory.
 - [cognee](https://github.com/topoteretes/cognee) - An open source framework for building memory and knowledge graphs for AI agents from your data.
+- [MemoryBrain](https://memorybrain.ai/) - A hosted MCP memory service, in private beta, that ChatGPT and Claude share, where every note keeps its source and typed links to other notes.
 
 ## Orchestration and Durable Execution
 
