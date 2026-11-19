@@ -46,6 +46,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 
 - [Obsidian](https://obsidian.md) - A local-first, Markdown-based knowledge base built on a graph of linked notes.
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open source outliner for networked note-taking and tasks.
+- [LocArk](https://locark.com/) - A local-first personal workspace for free Markdown notes, password records and Inbox, with optional Pro for creating kanban boards and mind maps.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - A self-hosted, block-based personal knowledge management system.
 - [Joplin](https://github.com/laurent22/joplin) - An open source note and to-do app with end-to-end encryption and sync.
 - [Anytype](https://github.com/anyproto/anytype-ts) - A local-first, end-to-end encrypted workspace built on an object graph you fully own.
