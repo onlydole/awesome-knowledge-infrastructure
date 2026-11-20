@@ -107,6 +107,7 @@ Curated by [Taylor Dolezal](https://github.com/onlydole), drawing on years of wo
 - [Glean](https://www.glean.com) - An enterprise search and AI assistant connected across workplace tools.
 - [Quivr](https://github.com/QuivrHQ/quivr) - An open source framework for building a personal, RAG-powered knowledge assistant.
 - [Guru](https://www.getguru.com) - An enterprise knowledge platform that surfaces verified answers in the tools where people work.
+- [Zortex](https://zortex.me/en/install) - Connects AI agents to supported apps such as Google Drive and Slack and keeps a searchable copy of synced content in an encrypted local store.
 
 ## Retrieval-Augmented Generation
 
